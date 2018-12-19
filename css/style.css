@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding:0;
+	text-align: center;
+	background-color: #eee;
+}
+
+.title{
+	
+	height: 100px;
+
+}
+
+.section1{
+	width: 95%;
+	margin: 0 auto;
+	background-color: #fff;
+
+}
+
+.section1 p {
+	padding-bottom: 100px;
+}
+.section2{
+	width: 40%;
+	margin: 0 auto;
+	
+}
+.section2 h2 {
+	margin-left: -80px;
+
+}
+.section2 ul li {
+	text-align: left;
+	line-height: 25px;
+}
+.footer{
+	width: 90%;
+	margin: 0 auto;
+}
